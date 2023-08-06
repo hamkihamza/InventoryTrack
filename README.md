@@ -3,8 +3,6 @@
 
 ## Week 1: Frontend Setup
 
-- Install necessary tools: Install Python, Flask, a code editor (e.g., Visual Studio Code), and a version control system (e.g., Git).
-- Create a new project directory.
 - Set up basic HTML, CSS, and JavaScript files for the frontend.
 - Build a simple header and navigation bar for the app's layout.
 - Implement responsive design principles for a user-friendly experience on various devices.
